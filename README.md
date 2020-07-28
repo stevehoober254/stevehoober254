@@ -1,6 +1,7 @@
 ### Hi, I'm Steve 👋
-<div style="background-color:blue">
-  <label><b>A software Engineer, UX/UX Designer and a Podcast Host. </b></label>
+<div background-color:blue>
+  <label><b>A software Engineer, UI/UX Designer and  Cloud Accent Podcast Host. </b></label>
+  <img align="right" src="https://bit.ly/2BFKnuA" alt="image">
 </div>
 
 <!--
