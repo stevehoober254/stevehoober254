@@ -6,21 +6,13 @@
 
 <br />
 
-
-
-### Hi 🙋‍♂️,
-### I'm a Full-Stack Software Engineer and UI/UX Designer. I love using technology to provide solutions for real life problems.
-
+### I enjoy using technology to provide solutions for real life problems.
 
 <br/>
-<br/>
 
+**Machine Learning, Web Development, SEO, Micro Services, System Design, Competetive Programming & Physics and Physics 😼**
 
-
-
-#### - 🛸 Into Cloud Computing, Machine Learning, AI  and Robots
-
-#### - 💬 Connect? Here 👉🏼  stephengachoka57@gmail.com
+** - 💬 Connect? Here 👉🏼  stephengachoka57@gmail.com
 
 <a href="https://twitter.com/">
   <img align="left" alt="Hemant Joshi| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -31,17 +23,10 @@
 
 <a href="https://www.instagram.com/SteveHoober/">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+</a>**
 
 
 <br />
-
-
-**I am Into , 🙏**
-
-**Machine Learning, Web Development, SEO, Micro Services, System Design, Competetive Programming & Physics and Physics 😼**
-<br />
-
 
 *************
 
@@ -58,11 +43,11 @@
 
 </p>
 
-### - Blogs 🌱
+** - Blogs 🌱
 
 <a align="center">
 <img src="http://thecloudaccentshow.com/"> 
-</a>
+</a>**
 
 ### - Podcast ⚡️
 <a align="center">
