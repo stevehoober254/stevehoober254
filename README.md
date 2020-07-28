@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi, I'm Steve 👋
+<div style="background-color:blue">
+  <label><b>A software Engineer, UX/UX Designer and a Podcast Host. </b></label>
+</div>
 
 <!--
 **stevehoober254/stevehoober254** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
