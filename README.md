@@ -2,7 +2,7 @@
 
 
 <br/>
-<img src="https://bit.ly/2EsDPk0" width="100%" height="400px">
+<img src="https://bit.ly/2EsDPk0" width="100%" height="350px">
 
 <br />
 
@@ -12,14 +12,15 @@
 ### I'm a Full-Stack Software Engineer and UI/UX Designer. I love using technology to provide solutions for real life problems.
 
 
-
+<br/>
+<br/>
 
 
 
 
 #### - 🛸 Into Cloud Computing, Machine Learning, AI  and Robots
 
-#### - 💬 Connect? Here 👉🏼 stephengachoka57@gmail.com
+#### - 💬 Connect? Here 👉🏼  stephengachoka57@gmail.com
 
 <a href="https://twitter.com/">
   <img align="left" alt="Hemant Joshi| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
