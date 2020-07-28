@@ -44,12 +44,6 @@
 <br />
 
 
-<p align="center" >
-  <a href="https://github.com/anuraghazra/github-readme-stats"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=8bithemant&&show_icons=true&theme=radical"/>
-  </a>
-  </p>
-
 *************
 
 <br />
