@@ -47,13 +47,13 @@
 
 ### - Blogs 🌱
 
-<a align="center">
-<img src="http://thecloudaccentshow.com/"> 
+<a align="center" href="https://www.thecloudaccentshow.com">
+<img src="https://bit.ly/30XBkxt" width="50px" height="50px"> 
 </a>
 
 ### - Podcast ⚡️
-<a align="center">
-  <img src="http://thecloudaccentshow.com/"> 
+<a align="center" href="https://www.thecloudaccentshow.com">
+  <img src="https://bit.ly/30XBkxt" width="50px" height="50px"> 
 </a>
 
 
