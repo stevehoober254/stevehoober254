@@ -1,17 +1,8 @@
-### Hi there, I'm Steve! 👋. 
+### Hi there,<br/> ##I'm Steve! 👋. 
 
 
 <br/>
-<a href="https://twitter.com/">
-  <img align="left" alt="Hemant Joshi| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/stephen-gashoka-6b8692167/">
-  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-
-<a href="https://www.instagram.com/SteveHoober/">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+<img src="https://bit.ly/2EsDPk0" width="100%" height="200px">
 
 
 
@@ -32,7 +23,17 @@
 
 #### - 🛸 Into Cloud Computing, Machine Learning, AI  and Robots
 
-#### - 💬 Connect? Here 👉🏼[stephengachoka57@gmail.com]
+#### - 💬 Connect? Here 👉🏼 [stephengachoka57@gmail.com]
+<a href="https://twitter.com/">
+  <img align="left" alt="Hemant Joshi| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/stephen-gashoka-6b8692167/">
+  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+
+<a href="https://www.instagram.com/SteveHoober/">
+  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
 
 
 <br />
