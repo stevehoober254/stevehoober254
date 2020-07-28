@@ -13,7 +13,7 @@
 ### I'm also into 👇🏾
 ### Machine Learning, Web Development, SEO, Micro Services, System Design, Competetive Programming & AI and Robotics 😼
 
-### - 💬 Connect with me? Here 👇🏾
+### - 💬  Connect with me? Here 👇🏾
 
 ### stephengachoka57@gmail.com
 <a href="https://twitter.com/">
@@ -25,7 +25,7 @@
 
 <a href="https://www.instagram.com/SteveHoober/">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>**
+</a>
 
 
 <br />
