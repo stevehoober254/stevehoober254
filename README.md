@@ -1,6 +1,6 @@
 ### Hi there, I'm Steve! 👋. 
 
-
+<video src="https://youtu.be/dVIRVA9EL5A" autoplay muted controls>
 <br/>
 <img src="https://bit.ly/2EsDPk0" width="100%" height="300px">
 
