@@ -16,14 +16,14 @@
 ### - 💬  Connect with me? Here 👇🏾
 
 ###  stephengachoka57@gmail.com
-<a href="https://twitter.com/">
+<a href="https://twitter.com/" target="new">
   <img align="left" alt="Hemant Joshi| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/stephen-gashoka-6b8692167/">
+<a href="https://www.linkedin.com/in/stephen-gashoka-6b8692167/" target="new">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-<a href="https://www.instagram.com/SteveHoober/">
+<a href="https://www.instagram.com/SteveHoober/" target="new">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
