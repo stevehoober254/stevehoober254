@@ -1,8 +1,21 @@
-### Hi there, I'm Steve! 👋. 
+Hi 👋 My name is Stephen Gachoka
+============================
 
-<video src="https://youtu.be/dVIRVA9EL5A" autoplay muted controls></video>
-<br/>
-<img src="https://bit.ly/2EsDPk0" width="100%" height="300px">
+I make things from coding.
+------------------------------
+
+Software Engineer, blogger, Game developer, mentorship on best practices and peer code reviews. Indie Hacker whenever possible. Bootstrapped.
+
+* 🌍  I'm based in Nairobi, Kenya.
+* 🖥️  See my portfolio at [Ellysoft](https://ellysoft-inc.business.site/)
+* ✉️  You can contact me at [stephengachoka57@gmail.com](mailto:stephengachoka57@gmail.com)
+* 🚀  I'm currently working on [ENORM.IO](http://enorm.io/)
+
+
+<a href="https://www.twitter.com/schlimmson" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/schlimmson?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+/></a><a href="https://www.github.com/saimon24" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/saimon24?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 <br />
 
