@@ -12,11 +12,6 @@ Software Engineer, blogger, Game developer, mentorship on best practices and pee
 * 🚀  I'm currently working on [ENORM.IO](http://enorm.io/)
 
 
-<a href="https://www.twitter.com/schlimmson" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/schlimmson?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a><a href="https://www.github.com/saimon24" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/saimon24?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
 <br />
 
 ### I enjoy using technology to provide solutions for real life problems.
@@ -28,7 +23,6 @@ src="https://img.shields.io/github/followers/saimon24?logo=github&style=for-the-
 
 ### - 💬  Connect with me? Here 👇🏾
 
-###  stephengachoka57@gmail.com
 <a href="https://twitter.com/" target="_blank">
   <img align="left" alt="Hemant Joshi| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
