@@ -1,7 +1,7 @@
 Hi 👋 My name is Stephen Gachoka
 ============================
 
-I make things from coding.
+I create solutions from coding.
 ------------------------------
 
 Software Engineer, blogger, Game developer, mentorship on best practices and peer code reviews. Indie Hacker whenever possible. Bootstrapped.
