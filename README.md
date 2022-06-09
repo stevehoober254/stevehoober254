@@ -4,7 +4,7 @@ Hi 👋 My name is Stephen Gachoka
 I create solutions from coding.
 ------------------------------
 
-Software Engineer, blogger, Game developer, mentorship on best practices and peer code reviews. Indie Hacker whenever possible. Bootstrapped.
+Software Engineer, Data Analyst, Blogger, Game developer, mentorship on best practices and peer code reviews. Indie Hacker whenever possible. Bootstrapped.
 
 * 🌍  I'm based in Nairobi, Kenya.
 * 🖥️  See my portfolio at [Ellysoft](https://ellysoft-inc.business.site/)
