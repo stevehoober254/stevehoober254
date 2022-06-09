@@ -9,7 +9,7 @@ Software Engineer, Data Analyst, Blogger, Game developer, mentorship on best pra
 * 🌍  I'm based in Nairobi, Kenya.
 * 🖥️  See my portfolio at [Ellysoft](https://ellysoft-inc.business.site/)
 * ✉️  You can contact me at [stephengachoka57@gmail.com](mailto:stephengachoka57@gmail.com)
-* 🚀  I'm currently working on [ENORM.IO](http://enorm.io/)
+* 🚀  I'm currently working on [ENORM.IO](https://github.com/stevehoober254/enorm.io)
        ***enorm.io is an open source email marketing tool that can be used to convert an email list into potential customer leads through scheduled campaigns. It provides a GUI interface for non-tech persons and also an API endpoint for developers.***
 
 
