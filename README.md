@@ -17,13 +17,13 @@ Software Engineer, Data Analyst, Blogger, Game developer, mentorship on best pra
 
 ### Let's connect Here 👇🏾
 
-[LinkedIn](https://www.linkedin.com/in/WilsonKinyua/) |
-[Website](https://developerwilson.com/) |
-[Twitter](https://twitter.com/_wilsonkinyua) |
+[LinkedIn](https://www.linkedin.com/in/stephen-gashoka-software-engineer/) |
+[Website](https://www.linkedin.com/in/stephen-gashoka-software-engineer/) |
+[Twitter](https://twitter.com/lordsteven18) |
 [Twitch](https://www.twitch.tv/stevehoober254) |
-[Instagram]() |
-[Facebook]() |
-[Youtube]() |
+[Instagram](https://www.instagram.com/stevehoober/) |
+[Facebook](https://www.facebook.com/stevehoober254/) |
+[Youtube](https://www.youtube.com/channel/UCupj3Q0uLnT9s8YvPAyzvDA) |
 [Google Play](https://play.google.com/store/apps/dev?id=4675069414572311917)
 
 <br />
