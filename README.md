@@ -10,7 +10,7 @@ Software Engineer, Data Analyst, Blogger, Game developer, mentorship on best pra
 * 🖥️  See my portfolio at [Stephen Gachoka](https://www.linkedin.com/in/stephen-gashoka-software-engineer/)
 * ✉️  You can contact me at [stephengachoka57@gmail.com](mailto:stephengachoka57@gmail.com)
 * 🚀  I'm currently working on [ENORM.IO](https://github.com/stevehoober254/enorm.io)
-       ***enorm.io is an open source email marketing tool that can be used to convert an email list into potential customer leads through scheduled campaigns. It provides a GUI interface for non-tech persons and also an API endpoint for developers.***
+       ***Enorm helps you create mailing lists from the subscriber form in your website and be able to use it in gmail as well as using it for your compaigns ***
 
 ------------------------------
 
