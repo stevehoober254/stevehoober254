@@ -38,7 +38,7 @@ Software Engineer, Data Analyst, Blogger, Game developer, mentorship on best pra
 
 <br />
 
-### - Languages and Tools...
+### Languages and Tools...
 
 <p align="center">
 
