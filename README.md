@@ -20,7 +20,8 @@ Software Engineer, Data Analyst, Blogger, Game developer, mentorship on best pra
 [Twitch](https://www.twitch.tv/stevehoober254) |
 [Instagram]() |
 [Facebook]() |
-[Youtube]()
+[Youtube]() |
+[Google PLay](https://play.google.com/store/apps/dev?id=4675069414572311917)
 
 <br />
 
