@@ -14,7 +14,7 @@ Software Engineer, Data Analyst, Blogger, Game developer, mentorship on best pra
 
 ### Let's connect Here 👇🏾
 
-[Linkedin](https://www.linkedin.com/in/WilsonKinyua/) |
+[LinkedIn](https://www.linkedin.com/in/WilsonKinyua/) |
 [Website](https://developerwilson.com/) |
 [Twitter](https://twitter.com/_wilsonkinyua) |
 [Twitch](https://www.twitch.tv/stevehoober254) |
