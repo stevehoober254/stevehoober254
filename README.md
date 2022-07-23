@@ -9,7 +9,8 @@ Software Engineer, Data Analyst, Blogger, Game developer, mentorship on best pra
 * 🌍  I'm based in Nairobi, Kenya.
 * 🖥️  See my portfolio at [Website](https://www.linkedin.com/in/stephen-gashoka-software-engineer/)
 * ✉️  You can contact me at [stephengachoka57@gmail.com](mailto:stephengachoka57@gmail.com)
-* 🚀  I'm currently working on [ENORM.IO](https://github.com/stevehoober254/enorm.io)
+* 📖 Read my Recent Articles [Dev](https://dev.to/stevehoober254)
+* 🚀  I'm currently working on [ENORM.IO](https://github.com/stevehoober254/enorm.io)
        ***Enorm helps you create mailing lists from the subscriber form in your website and be able to use it in gmail as well as using it for your compaigns***
 
 ------------------------------
