@@ -32,7 +32,7 @@ Software Engineer, Data Analyst, Blogger, Game developer, mentorship on best pra
 
 
 ### I'm also into 👇🏾
-* Machine Learning & AI | Web Development | SEO | APIs | DevOps | MLOps | Robotics | Internet of Things (**IoT**)
+* **Machine Learning & AI** | **Web Development** | **SEO** | **APIs** | **DevOps** | **MLOps** | **Robotics** | **Internet of Things** (**IoT**)
 
 <br />
 
