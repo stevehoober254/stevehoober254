@@ -24,16 +24,13 @@ Software Engineer, Data Analyst, Blogger, Game developer, mentorship on best pra
 
 ### - 💬  Connect with me? Here 👇🏾
 
-<a href="https://twitter.com/" target="_blank">
-  <img align="left" alt="Hemant Joshi| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/stephen-gashoka-6b8692167/" target="_blank">
-  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-
-<a href="https://www.instagram.com/SteveHoober/" target="_blank">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+[Linkedin](https://www.linkedin.com/in/WilsonKinyua/) |
+[Website](https://developerwilson.com/) |
+[Twitter](https://twitter.com/_wilsonkinyua) |
+[Twitch](https://www.twitch.tv/stevehoober254) |
+[Instagram]() |
+[Facebook]() |
+[Youtube]()
 
 
 <br />
@@ -66,20 +63,7 @@ Software Engineer, Data Analyst, Blogger, Game developer, mentorship on best pra
 <img src="./docker_codeception-07.jpg" alt="docker" style="vertical-align:top; margin:4px">
 </p>
 
-### - Blogs 🌱
-
-<a align="center" href="https://www.thecloudaccentshow.com">
-<img src="https://bit.ly/30XBkxt" width="50px" height="50px"> 
-</a>
-
-### - Podcast ⚡️
-<a align="center" href="https://www.thecloudaccentshow.com">
-  <img src="https://bit.ly/30XBkxt" width="50px" height="50px"> 
-</a>
 
 
-***********************************
-
-#### Thank You-🙏🏼
 
 
