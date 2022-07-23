@@ -27,9 +27,9 @@ Software Engineer, Data Analyst, Blogger, Game developer, mentorship on best pra
 
 <br />
 
-### I enjoy using technology to provide solutions for real life problems.
+
 ### I'm also into 👇🏾
-### Machine Learning, Web Development, SEO, Micro Services, System Design, Competetive Programming & AI and Robotics 😼
+* Machine Learning & AI | Web Development | SEO | APIs | DevOps | MLOps | Robotics | Internet of Things (**IoT**)
 
 <br />
 
