@@ -7,10 +7,10 @@ I create solutions from coding.
 Software Engineer, Data Analyst, Blogger, Game developer, mentorship on best practices and peer code reviews. Indie Hacker whenever possible. Bootstrapped.
 
 * 🌍  I'm based in Nairobi, Kenya.
-* 🖥️  See my portfolio at [Stephen Gachoka](https://www.linkedin.com/in/stephen-gashoka-software-engineer/)
+* 🖥️  See my portfolio at [Website](https://www.linkedin.com/in/stephen-gashoka-software-engineer/)
 * ✉️  You can contact me at [stephengachoka57@gmail.com](mailto:stephengachoka57@gmail.com)
 * 🚀  I'm currently working on [ENORM.IO](https://github.com/stevehoober254/enorm.io)
-       ***Enorm helps you create mailing lists from the subscriber form in your website and be able to use it in gmail as well as using it for your compaigns ***
+       ***Enorm helps you create mailing lists from the subscriber form in your website and be able to use it in gmail as well as using it for your compaigns***
 
 ------------------------------
 
