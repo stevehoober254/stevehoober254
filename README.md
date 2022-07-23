@@ -12,16 +12,6 @@ Software Engineer, Data Analyst, Blogger, Game developer, mentorship on best pra
 * 🚀  I'm currently working on [ENORM.IO](https://github.com/stevehoober254/enorm.io)
        ***enorm.io is an open source email marketing tool that can be used to convert an email list into potential customer leads through scheduled campaigns. It provides a GUI interface for non-tech persons and also an API endpoint for developers.***
 
-
-<br />
-
-### I enjoy using technology to provide solutions for real life problems.
-
-<br/>
-
-### I'm also into 👇🏾
-### Machine Learning, Web Development, SEO, Micro Services, System Design, Competetive Programming & AI and Robotics 😼
-
 ### Let's connect Here 👇🏾
 
 [Linkedin](https://www.linkedin.com/in/WilsonKinyua/) |
@@ -32,6 +22,11 @@ Software Engineer, Data Analyst, Blogger, Game developer, mentorship on best pra
 [Facebook]() |
 [Youtube]()
 
+<br />
+
+### I enjoy using technology to provide solutions for real life problems.
+### I'm also into 👇🏾
+### Machine Learning, Web Development, SEO, Micro Services, System Design, Competetive Programming & AI and Robotics 😼
 
 <br />
 
