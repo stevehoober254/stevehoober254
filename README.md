@@ -24,7 +24,7 @@ Software Engineer, Data Analyst, Blogger, Game developer, mentorship on best pra
 [Instagram]() |
 [Facebook]() |
 [Youtube]() |
-[Google PLay](https://play.google.com/store/apps/dev?id=4675069414572311917)
+[Google Play](https://play.google.com/store/apps/dev?id=4675069414572311917)
 
 <br />
 
