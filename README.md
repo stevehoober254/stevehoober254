@@ -1,4 +1,4 @@
-Hi 👋 My name is Stephen Gachoka
+Hi 👋 I'm Steve,
 ============================
 
 I create solutions from coding.
