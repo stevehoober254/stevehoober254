@@ -22,7 +22,7 @@ Software Engineer, Data Analyst, Blogger, Game developer, mentorship on best pra
 ### I'm also into 👇🏾
 ### Machine Learning, Web Development, SEO, Micro Services, System Design, Competetive Programming & AI and Robotics 😼
 
-### - 💬  Connect with me? Here 👇🏾
+### Let's connect Here 👇🏾
 
 [Linkedin](https://www.linkedin.com/in/WilsonKinyua/) |
 [Website](https://developerwilson.com/) |
