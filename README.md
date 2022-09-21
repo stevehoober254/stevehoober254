@@ -10,8 +10,8 @@ Software Engineer, Data Analyst, Blogger, Game developer, mentorship on best pra
 * 🖥️  See my portfolio at [Website](https://www.linkedin.com/in/stephen-gashoka-software-engineer/)
 * ✉️   You can contact me at [stephengachoka57@gmail.com](mailto:stephengachoka57@gmail.com)
 * 📖  Read my Recent Articles [Dev](https://dev.to/stevehoober254) | [Medium](https://medium.com/@stephengachoka)
-* 🚀  I'm currently working on [Enorm](https://github.com/stevehoober254/enorm)
-       ***Enorm helps you create mailing lists from the subscriber form in your website and be able to use it in gmail as well as using it for your      compaigns***
+* 🚀  I'm currently working on [Tip Box](https://github.com/stevehoober254/tipbox)
+       ***Tip Box is a social tip wallet that you can use to collect tips from viewers while streaming on social platforms like discord, twitch, slack and youtube. With tipable links you can extend the collection from websites and any online platform as well***
 
 ------------------------------
 
