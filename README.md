@@ -1,7 +1,7 @@
 Hi 👋 I'm Steve,
 ============================
 
-I create solutions from coding.
+I'm passionate about assisting businesses in achieving their objectives through technological advancements.
 ------------------------------
 
 Software Engineer, Data Analyst, Blogger, Game developer, mentorship on best practices and peer code reviews. Indie Hacker whenever possible. Bootstrapped.
