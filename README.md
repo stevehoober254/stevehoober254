@@ -7,7 +7,7 @@ I'm passionate about assisting businesses in achieving their objectives through 
 Software Engineer, Data Analyst, Blogger, Game developer, mentorship on best practices and peer code reviews. Indie Hacker whenever possible. Bootstrapped.
 
 * 🌍  I'm based in Nairobi, Kenya.
-* 🖥️  See my portfolio at [Website](https://www.linkedin.com/in/stephen-gashoka-software-engineer/)
+* 🖥️  See my portfolio at [Website](https://stevehoober.com/)
 * ✉️   You can contact me at [stephengachoka57@gmail.com](mailto:stephengachoka57@gmail.com)
 * 📖  Read my Recent Articles [Dev](https://dev.to/stevehoober254) | [Medium](https://medium.com/@stephengachoka)
 * 🚀  I'm currently working on [Tip Box](https://github.com/stevehoober254/tipbox)
@@ -18,7 +18,7 @@ Software Engineer, Data Analyst, Blogger, Game developer, mentorship on best pra
 ### Let's connect Here 👇🏾
 
 [LinkedIn](https://www.linkedin.com/in/stephen-gashoka-software-engineer/) |
-[Website](https://www.linkedin.com/in/stephen-gashoka-software-engineer/) |
+[Website](https://stevehoober.com/) |
 [Twitter](https://twitter.com/lordsteven18) |
 [Twitch](https://www.twitch.tv/stevehoober254) |
 [Instagram](https://www.instagram.com/stevehoober/) |
