@@ -11,7 +11,7 @@ Software Engineer, Data Analyst, Blogger, Game developer, mentorship on best pra
 * ✉️   You can contact me at [stephengachoka57@gmail.com](mailto:stephengachoka57@gmail.com)
 * 📖  Read my Recent Articles [Dev](https://dev.to/stevehoober254) | [Medium](https://medium.com/@stephengachoka)
 * 🚀  I'm currently working on [Stream Mail](https://github.com/stevehoober254/stream-mail)
-       ***Stream Mail is a browser extension that helps in collecting emails of viewers while streaming on social platforms like discord, twitch and youtube. It then saves them into an email list bank that you can export or use to carry out email marketing.***
+       ***Stream Mail is a browser extension that helps in collecting emails of viewers while streaming on social platforms. It then saves them into an email list bank that you can export or use to carry out email marketing.***
 
 ------------------------------
 
