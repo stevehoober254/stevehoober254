@@ -10,8 +10,8 @@ Software Engineer, Data Analyst, Blogger, Game developer, mentorship on best pra
 * 🖥️  See my portfolio at [Website](https://stevehoober.com/)
 * ✉️   You can contact me at [stephengachoka57@gmail.com](mailto:stephengachoka57@gmail.com)
 * 📖  Read my Recent Articles [Dev](https://dev.to/stevehoober254) | [Medium](https://medium.com/@stephengachoka)
-* 🚀  I'm currently working on [Tip Box](https://github.com/stevehoober254/tipbox)
-       ***Tip Box is a social tip wallet that you can use to collect tips from viewers while streaming on social platforms like discord, twitch, slack and youtube. With tipable links you can extend the collection from websites and any online platform as well***
+* 🚀  I'm currently working on [Stream Mail](https://github.com/stevehoober254/stream-mail)
+       ***Stream Mail is a browser extension that helps in collecting emails of viewers while streaming on social platforms like discord, twitch and youtube. It then saves them into an email list bank that you can export or use to carry out email marketing.***
 
 ------------------------------
 
