@@ -64,7 +64,7 @@ Software Engineer, Data Analyst, Blogger, Game developer, mentorship on best pra
 <img src="./docker_codeception-07.jpg" alt="docker" style="vertical-align:top; margin:4px">
 </p>
 
-
+[](http://i.imgur.com/OUkLi.gif)
 
 
 
