@@ -66,5 +66,5 @@ Software Engineer, Data Analyst, Blogger, Game developer, mentorship on best pra
 
 
 
-<img src="http://i.imgur.com/OUkLi.gif">
+
 
