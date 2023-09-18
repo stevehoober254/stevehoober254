@@ -1,7 +1,7 @@
 Hi 👋 I'm Steve,
 ============================
 
-A passionate Software Engineer, Designer, Data scientist, and entrepreneur with a vision for building robust, scalable, and innovative solutions. 🚀
+A passionate Software Engineer | Designer | Data Scientist | Entrepreneur with a vision for building robust, scalable, and innovative solutions. 🚀
 ------------------------------
 
 🌍 Hailing from the vibrant tech community of Kenya, I'm on a mission to bridge the gap between code and cloud, making technology accessible to all.
