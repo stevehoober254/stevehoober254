@@ -1,18 +1,20 @@
 Hi 👋 I'm Steve,
 ============================
 
-I'm passionate about assisting businesses in achieving their objectives through technological advancements.
+A passionate Software Engineer, Designer, Data scientist, and entrepreneur with a vision for building robust, scalable, and innovative solutions. 🚀
 ------------------------------
 
-Software Engineer, Data Analyst, Blogger, Game developer, mentorship on best practices and peer code reviews. Indie Hacker whenever possible. Bootstrapped.
+🌍 Hailing from the vibrant tech community of Kenya, I'm on a mission to bridge the gap between code and cloud, making technology accessible to all.
 
-* 🌍  I'm based in Nairobi, Kenya.
-* 🖥️  See my portfolio at [Website](https://stevehoober.com/)
-* ✉️   You can contact me at [stephengachoka57@gmail.com](mailto:stephengachoka57@gmail.com)
-* 📖  Read my Recent Articles [Dev](https://dev.to/stevehoober254) | [Medium](https://medium.com/@stephengachoka)
-* 🚀  I'm currently working on [Stream Mail](https://github.com/stevehoober254/stream-mail)
-       ***Stream Mail is a browser extension that helps in collecting emails of viewers while streaming on social platforms. It then saves them into an email list bank that you can export or use to carry out email marketing.***
+💡 Here's what you can expect from my repositories:
 
+- 🛠️ DevOps Enthusiast: I love automating, optimizing, and streamlining processes to boost efficiency.
+- ☁️ Cloud Evangelist: Exploring the limitless possibilities of cloud computing.
+- 🧞 Interactive and intuitive UI/UX design works
+- 🏗️ Solutions Architect in the making: Designing elegant solutions to complex problems.
+- 🧩 Saas products: my Software As A Service solutions to the world.
+
+🤝 Let's collaborate and shape the future of technology together. Connect with me and explore my projects ⬇️
 ------------------------------
 
 ### Let's connect Here 👇🏾
