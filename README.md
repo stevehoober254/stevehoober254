@@ -4,6 +4,21 @@ Hi 👋 I'm Steve,
 I'm passionate about assisting businesses in achieving their objectives through technological advancements.
 ------------------------------
 
+### Hello, World! 👋
+
+I'm Stevehoober, a passionate Software Engineer with a vision for building robust, scalable, and innovative solutions. 🚀
+
+🌍 Hailing from the vibrant tech community of Kenya, I'm on a mission to bridge the gap between code and cloud, making technology accessible to all.
+
+💡 Here's what you can expect from my repositories:
+
+- 🛠️ DevOps Enthusiast: I love automating, optimizing, and streamlining processes to boost efficiency.
+- ☁️ Cloud Evangelist: Exploring the limitless possibilities of cloud computing.
+- 🏗️ Solutions Architect in the making: Designing elegant solutions to complex problems.
+
+🤝 Let's collaborate and shape the future of technology together. Connect with me and explore my projects below! ⬇️
+
+
 Software Engineer, Data Analyst, Blogger, Game developer, mentorship on best practices and peer code reviews. Indie Hacker whenever possible. Bootstrapped.
 
 * 🌍  I'm based in Nairobi, Kenya.
