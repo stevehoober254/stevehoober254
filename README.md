@@ -1,15 +1,16 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Steve,
 ============================
 
-A passionate Software Engineer | Designer | Data Scientist | Entrepreneur with a vision for building robust, scalable, and innovative solutions. 🚀
+
+Dedicated Software Engineer | Creative Designer | Data Science Enthusiast | Entrepreneur crafting robust, scalable, and innovative solutions. 🚀
 ------------------------------
 
-🌍 Hailing from the vibrant tech community of Kenya, I'm on a mission to bridge the gap between code and cloud, making technology accessible to all.
+🌍 Hailing from the vibrant tech community of Kenya.
 
 💡 Here's what you can expect from my repositories:
 
-- 🛠️ DevOps Enthusiast: I love automating, optimizing, and streamlining processes to boost efficiency.
-- ☁️ Cloud Evangelist: Exploring the limitless possibilities of cloud computing.
+- 🛠️ DevOps & MLOPs Automation: I love automating, optimizing, and streamlining processes to boost efficiency.
+- ☁️ Cloud Solutions: Exploring the limitless possibilities of cloud computing.
 - 🧞 Interactive and intuitive UI/UX design works
 - 🏗️ Solutions Architect in the making: Designing elegant solutions to complex problems.
 - 🧩 Saas products: my Software As A Service solutions to the world.
