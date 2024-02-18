@@ -55,13 +55,14 @@ Dedicated Software Engineer | Creative Designer | Data Science Enthusiast | Entr
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/nodejs.svg" alt="nodejs" style="vertical-align:top; margin:6px 4px">
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/rust.svg" alt="rust" style="vertical-align:top; margin:6px 4px">
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/misc/ai.svg" alt="ai" style="vertical-align:top; margin:6px 4px">
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/misc/mobile.svg" alt="mobile" style="vertical-align:top; margin:6px 4px">
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/swift.svg" alt="swift" style="vertical-align:top; margin:6px 4px">
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/misc/iot.svg" alt="iot" style="vertical-align:top; margin:6px 4px">
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/ml.svg" alt="machine learning" style="vertical-align:top; margin:6px 4px">
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/misc/security.svg" alt="security" style="vertical-align:top; margin:6px 4px">
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/jupiternotebook.svg" alt="jupiter notebooks" style="vertical-align:top; margin:6px 4px">
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/android_studio.svg" alt="android_studio" style="vertical-align:top; margin:6px 4px">
 <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
-<img src="./docker_codeception-07.jpg" alt="docker" style="vertical-align:top; margin:4px">
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/xcode.svg" alt="xcode" style="vertical-align:top; margin:6px 4px">
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/docker.svg" alt="docker" style="vertical-align:top; margin:6px 4px">
 </p>
 
 
