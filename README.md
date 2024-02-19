@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ============================
 
 
-Dedicated Software Engineer | Creative Designer | Data Science Enthusiast | Entrepreneur crafting robust, scalable, and innovative solutions. 🚀
+An Engineer | Designer | Data Scientist | Entrepreneur. 🚀
 ------------------------------
 
 🌍 Hailing from the vibrant tech community of Kenya.
