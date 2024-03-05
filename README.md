@@ -22,14 +22,7 @@ An Engineer | Designer | Data Scientist | Entrepreneur. 🚀
 
 [LinkedIn](https://www.linkedin.com/in/stephen-gashoka-software-engineer/) |
 [Website](https://stevehoober.com/) |
-[Twitter](https://twitter.com/lordsteven18) |
-[Twitch](https://www.twitch.tv/stevehoober254) |
-[Instagram](https://www.instagram.com/stevehoober/) |
-[Facebook](https://www.facebook.com/stevehoober254/) |
-[Youtube](https://www.youtube.com/channel/UCupj3Q0uLnT9s8YvPAyzvDA) |
-[Podcast](https://anchor.fm/cloudaccent) |
-[Discord](https://discord.gg/v4zPVGHwvz) |
-[Google Play](https://play.google.com/store/apps/dev?id=4675069414572311917)
+[Discord](https://discord.gg/v4zPVGHwvz)
 
 <br />
 
