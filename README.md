@@ -14,8 +14,7 @@ An Engineer | Designer | Data Scientist | Entrepreneur. 🚀
 - 🧞 Interactive and intuitive UI/UX design works
 - 🏗️ Solutions Architect in the making: Designing elegant solutions to complex problems.
 - 🧩 Saas products: my Software As A Service solutions to the world.
-
-🤝 Let's collaborate and shape the future of technology together. Connect with me and explore my projects ⬇️
+ 
 ------------------------------
 
 ### Let's connect Here 👇🏾
