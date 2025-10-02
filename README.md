@@ -20,7 +20,7 @@ An Engineer | Designer | Data Scientist | Entrepreneur. 🚀
 ### Let's connect Here 👇🏾
 
 [LinkedIn](https://www.linkedin.com/in/stephen-gashoka-software-engineer/) |
-[Website](https://stevehoober.com/) |
+[Website](https://stephengachoka.co.ke/) |
 [Discord](https://discord.gg/v4zPVGHwvz)
 
 <br />
