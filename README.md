@@ -6,7 +6,7 @@
 
 <p>
 Building production-grade systems at the intersection of <strong>data pipelines</strong>, <strong>AI/ML</strong>, <strong>cloud infrastructure</strong>, and <strong>connected devices</strong>.<br>
-5+ years engineering across the full stack — from edge sensors to LLM-powered APIs.<br>
+6+ years engineering across the full stack — from edge sensors to LLM-powered APIs.<br>
 Currently deepening expertise in <strong>cybersecurity</strong>.
 </p>
 
