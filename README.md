@@ -2,7 +2,7 @@
 
 <h1>Hi 👋 I'm Stephen Gashoka</h1>
 
-<p><strong>Full-Stack Engineer · Data & AI · DevOps · IoT · Kenya 🇰🇪</strong></p>
+<p><strong>Platform Engineer · Data & AI · DevOps · IoT · Kenya 🇰🇪</strong></p>
 
 <p>
 Building production-grade systems at the intersection of <strong>data pipelines</strong>, <strong>AI/ML</strong>, <strong>cloud infrastructure</strong>, and <strong>connected devices</strong>.<br>
